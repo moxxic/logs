@@ -1,0 +1,30 @@
+[
+  {
+    "id": "20260126-213547-az23",
+    "title": "Revan Mallice",
+    "commanders": [
+      "Revan Mallice"
+    ],
+    "dateStart": "2026-01-27T02:35:47.000Z",
+    "dateEnd": "2026-01-27T03:37:15.000Z",
+    "dateLabel": "1/26/2026, 9:35:47 PM - 1/26/2026, 10:37:15 PM",
+    "url": "https://moxxic.github.io/gw2logs/?report=20260126-213547-az23",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 13,
+          "color": "#10b981"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 9,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 5,
+      "avgEnemySize": 8
+    }
+  }
+]
