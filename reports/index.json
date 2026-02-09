@@ -1,5 +1,34 @@
 [
   {
+    "id": "20260208-221402-id5b",
+    "title": "Birdman Jackman, Revan Belladonna",
+    "commanders": [
+      "Birdman Jackman",
+      "Revan Belladonna"
+    ],
+    "dateStart": "2026-02-09T03:14:02.000Z",
+    "dateEnd": "2026-02-09T04:47:37.000Z",
+    "dateLabel": "2/8/2026, 10:14:02 PM - 2/8/2026, 11:47:37 PM",
+    "url": "https://moxxic.github.io/logs/?report=20260208-221402-id5b",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 20,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 12,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 5,
+      "avgEnemySize": 11
+    }
+  },
+  {
     "id": "20260127-214218-8zh6",
     "title": "Birdman Jackman, Revan Malice",
     "commanders": [
