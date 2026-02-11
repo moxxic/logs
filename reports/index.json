@@ -1,5 +1,31 @@
 [
   {
+    "id": "20260210-220003-hvam",
+    "title": "Unknown Commander",
+    "commanders": [],
+    "dateStart": "2026-02-11T03:00:03.000Z",
+    "dateEnd": "2026-02-11T03:50:55.000Z",
+    "dateLabel": "2/10/2026, 10:00:03 PM - 2/10/2026, 10:50:55 PM",
+    "url": "https://moxxic.github.io/logs/?report=20260210-220003-hvam",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 16,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 2,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 4,
+      "avgEnemySize": 3
+    }
+  },
+  {
     "id": "20260209-211158-leaf",
     "title": "Not Haro",
     "commanders": [
