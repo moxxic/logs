@@ -1,5 +1,28 @@
 [
   {
+    "id": "20260215-194252-wf55",
+    "title": "Birdman Jackman",
+    "commanders": [
+      "Birdman Jackman"
+    ],
+    "dateStart": "2026-02-16T00:42:52.000Z",
+    "dateEnd": "2026-02-16T04:46:01.000Z",
+    "dateLabel": "2/15/2026, 7:42:52 PM - 2/15/2026, 11:46:01 PM",
+    "url": "https://moxxic.github.io/logs/?report=20260215-194252-wf55",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 89,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 4,
+      "avgEnemySize": 25
+    }
+  },
+  {
     "id": "20260210-220003-hvam",
     "title": "Unknown Commander",
     "commanders": [],
