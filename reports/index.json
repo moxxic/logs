@@ -1,10 +1,35 @@
 {
-  "siteTheme": {
-    "ui": "classic",
-    "paletteId": "Arcane",
-    "kineticFont": "default"
-  },
+  "colorPalette": "electric-blue",
+  "glassSurfaces": false,
   "entries": [
+    {
+      "id": "20260330-205847-awsw",
+      "title": "Not Haro",
+      "commanders": [
+        "Not Haro"
+      ],
+      "dateStart": "2026-03-31T00:58:47.000Z",
+      "dateEnd": "2026-03-31T02:34:45.000Z",
+      "dateLabel": "3/30/2026, 8:58:47 PM - 3/30/2026, 10:34:45 PM",
+      "url": "https://moxxic.github.io/logs/?report=20260330-205847-awsw",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 35,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 2,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 40,
+        "avgEnemySize": 28
+      }
+    },
     {
       "id": "20260320-220949-esvl",
       "title": "Charrmander Harasho",
