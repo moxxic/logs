@@ -3,6 +3,34 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260413-214244-wfbu",
+      "title": "Not Haro",
+      "commanders": [
+        "Not Haro"
+      ],
+      "dateStart": "2026-04-14T01:42:44.000Z",
+      "dateEnd": "2026-04-14T02:53:47.000Z",
+      "dateLabel": "4/13/2026, 9:42:44 PM - 4/13/2026, 10:53:47 PM",
+      "url": "https://moxxic.github.io/logs/?report=20260413-214244-wfbu",
+      "summary": {
+        "borderlandsPct": 0.5277777777777778,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 19,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 17,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 22
+      }
+    },
+    {
       "id": "20260406-205634-6048",
       "title": "Prez Ashton",
       "commanders": [
