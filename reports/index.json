@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260420-214824-udxg",
+      "title": "Not Haro",
+      "commanders": [
+        "Not Haro"
+      ],
+      "dateStart": "2026-04-21T01:48:24.000Z",
+      "dateEnd": "2026-04-21T02:50:53.000Z",
+      "dateLabel": "4/20/2026, 9:48:24 PM - 4/20/2026, 10:50:53 PM",
+      "url": "https://moxxic.github.io/logs/?report=20260420-214824-udxg",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 30,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 43,
+        "avgEnemySize": 41
+      }
+    },
+    {
       "id": "20260413-214244-wfbu",
       "title": "Not Haro",
       "commanders": [
