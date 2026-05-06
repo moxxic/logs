@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260505-225040-tbvs",
+      "title": "Iron Planter, Victus Grave",
+      "commanders": [
+        "Iron Planter",
+        "Victus Grave"
+      ],
+      "dateStart": "2026-05-06T02:50:40.000Z",
+      "dateEnd": "2026-05-06T03:59:05.000Z",
+      "dateLabel": "5/5/2026, 10:50:40 PM - 5/5/2026, 11:59:05 PM",
+      "url": "https://moxxic.github.io/logs/?report=20260505-225040-tbvs",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 15,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 9,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 7,
+        "avgEnemySize": 6
+      }
+    },
+    {
       "id": "20260504-222428-c3cw",
       "title": "Mesmer Kamoidra",
       "commanders": [
