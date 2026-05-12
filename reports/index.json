@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260511-205554-r2hi",
+      "title": "Not Haro",
+      "commanders": [
+        "Not Haro"
+      ],
+      "dateStart": "2026-05-12T00:55:54.000Z",
+      "dateEnd": "2026-05-12T01:42:32.000Z",
+      "dateLabel": "5/11/2026, 8:55:54 PM - 5/11/2026, 9:42:32 PM",
+      "url": "https://moxxic.github.io/logs/?report=20260511-205554-r2hi",
+      "summary": {
+        "borderlandsPct": 0.8571428571428571,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 13,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 11,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 4,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 30
+      }
+    },
+    {
       "id": "20260505-225040-tbvs",
       "title": "Iron Planter, Victus Grave",
       "commanders": [
