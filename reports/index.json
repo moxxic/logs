@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260518-212829-0nbq",
+      "title": "Not Haro",
+      "commanders": [
+        "Not Haro"
+      ],
+      "dateStart": "2026-05-19T01:28:29.000Z",
+      "dateEnd": "2026-05-19T02:10:07.000Z",
+      "dateLabel": "5/18/2026, 9:28:29 PM - 5/18/2026, 10:10:07 PM",
+      "url": "https://moxxic.github.io/logs/?report=20260518-212829-0nbq",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 28,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 38
+      }
+    },
+    {
       "id": "20260513-220230-b44j",
       "title": "Mesmer Kamoidra",
       "commanders": [
